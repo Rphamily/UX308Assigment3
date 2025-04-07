@@ -22,6 +22,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products/bun-bo-hue/
         </loc>
     </url>
